@@ -1,0 +1,79 @@
+{
+  "status": "success",
+  "message": "Feed Found!",
+  "fitness_feed": [
+    {
+      "id": "1",
+      "user_image": "http://daxushequ.com/data/out/3/img59800230.jpg",
+      "user_name": "Admin",
+      "post_time": "2 hours ago",
+      "post_text": "ARE YOU TIRED of putting in the effort at the gym and not seeing results?You're not alone—many people show the drive, determination, and consistent effort, but don’t reach their goals. If this sounds familiar, the next logical step is usually to find an educated personal trainer with proven experience.",
+      "post_images": [
+        {
+          "id":"1",
+          "post_image_url":"https://www.shape.com/sites/shape.com/files/styles/slide/public/47.sticktoitfor2weeks_0.jpg"
+        },
+        {
+          "id":"2",
+          "post_image_url":"https://www.shape.com/sites/shape.com/files/styles/slide/public/17.bringupyourrear_0.jpg17.bringupyourrear_0_0.jpg"
+        },
+        {
+          "id":"3",
+          "post_image_url":"https://www.shape.com/sites/shape.com/files/styles/slide/public/4.neverskipthemostimportantmeal_1.jpg4.neverskipthemostimportantmeal_1_0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "user_image": "http://daxushequ.com/data/out/3/img59800230.jpg",
+      "user_name": "Admin",
+      "post_time": "3 hours ago",
+      "post_text": "Be Less Specific Just like trying to find a guy who meets certain exact standards, trying to reach an exact weight is a lofty—and often unattainable—goal. Having a range, such as losing five to 10 pounds, may lead to a more successful outcome than if you aim to lose precisely 8 pounds in four weeks, according to a study published in the Journal of Consumer Research. Flexible goals seem more feasible, which in turn boosts your sense of accomplishment, encouraging you to stay driven, the study authors say.",
+      "post_images": [
+        {
+          "id":"1",
+          "post_image_url":"https://www.shape.com/sites/shape.com/files/styles/slide/public/2.belessspecific_1.jpg2.belessspecific_1_0.jpg"
+        },
+        {
+          "id":"2",
+          "post_image_url":"https://www.shape.com/sites/shape.com/files/styles/slide/public/41.stepitup_0.jpg41.stepitup_0_0.jpg"
+        },
+        {
+          "id":"3",
+          "post_image_url":"https://www.shape.com/sites/shape.com/files/styles/slide/public/43.notsofast_0.jpg43.notsofast_0_0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "user_image": "http://daxushequ.com/data/out/3/img59800230.jpg",
+      "user_name": "Admin",
+      "post_time": "5 hours ago",
+      "post_text": "Dig Deeper",
+      "post_images": [
+        {
+          "id":"1",
+          "post_image_url":"https://www.shape.com/sites/shape.com/files/styles/slide/public/12.digdeeper_0.jpg"
+        },
+        {
+          "id":"2",
+          "post_image_url":"https://www.shape.com/sites/shape.com/files/styles/slide/public/15.takeitoutside_0.jpg15.takeitoutside_0_0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "user_image": "http://daxushequ.com/data/out/3/img59800230.jpg",
+      "user_name": "Admin",
+      "post_time": "1 day ago",
+      "post_text": "PUSH The Ultimate: Bench Press Lie face-up on a bench, holding a heavy barbell at your sternum, hands shoulder-width apart, elbows bent into sides. Extend arms, pushing bar directly above chest. Pause, then lower barbell to start.",
+      "post_images": [
+        {
+          "id":"1",
+          "post_image_url":"http://images.huffingtonpost.com/2015-01-06-fiveexercise-thumb.jpg"
+        }
+      ]
+    }
+  ]
+}
+

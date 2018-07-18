@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "message": "Questions Found!",
+  "fitness_question_answer": [
+    {
+      "id": "1",
+      "question_text": "Most experts seem to all agree that nuts are very healthy, but they  seem to have a lot of fat in them. Won't eating high fat foods like  nuts make it more difficult to lose weight?",
+      "user_name": "Admin",
+      "answer_time": "2 hours ago",
+      "answer_text": "People seem to focus on and single out one food type and ask if it is good or bad.My experience is that someone asking is usually asking about their favourite food, or one they just can't give up; nuts being a very popular food in this case. Instead of looking at whether nuts are good or bad, we are best off looking at the bigger picture – are they eating a balanced diet with some protein and plenty of greens. If so, and in this context, nuts are good."
+    },
+    {
+      "id": "2",
+      "question_text": "How long should people rest in between workouts?",
+      "user_name": "Admin",
+      "answer_time": "2 hours ago",
+      "answer_text": "That depends on the type of workout and the intensity. Within 3 hours if they are training for endurance, 48 hours if training for hypertrophy (getting bigger) or upwards of two weeks if they are training for strength."
+    },
+    {
+      "id": "3",
+      "question_text": "Should children lift weights?",
+      "user_name": "Admin",
+      "answer_time": "2 hours ago",
+      "answer_text": "Kids lift weight all the time, and more than most adults. Think about how often a kid climbs up a tree or jungle gym. They are lifting their entire body weight. When they piggy back one another, they carry a friends' entire body weight on their back whilst running."
+    },
+    {
+      "id": "4",
+      "question_text": "Who should the average person talk to about which exercise program would be best for them?",
+      "user_name": "Admin",
+      "answer_time": "2 hours ago",
+      "answer_text": "A good personal trainer will find out their goals, their time commitment, their limitations and put together a realistic exercise program that will facilitate their achievement within the parameters."
+    }
+  ]
+}
+

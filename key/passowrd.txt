@@ -1,0 +1,2 @@
+Alliias: FitnessQuery
+pass: admin@123
